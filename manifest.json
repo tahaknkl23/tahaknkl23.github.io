@@ -1,0 +1,23 @@
+{
+    "name": "Hasan-Taha-Künkül-dev",
+    "short_name": "Hasan-Taha-Künkül-dev",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#6AE99F",
+    "theme_color": "#6AE99F",
+    "description": "Hello I'm Hasan Taha Künkül I'm  mobile developer",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/favicon.ico",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/favicon.ico",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
